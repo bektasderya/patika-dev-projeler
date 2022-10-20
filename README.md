@@ -11,7 +11,7 @@ Insert Sort Proje
 [2,6,16,18,22,27]
 
 2)
-O(n)
+O(n2)
 
 3)
 Average case
