@@ -1,4 +1,5 @@
 # patika-dev-projeler
+https://app.patika.dev/deryabektas
 1)
 [22,27,16,2,18,6]    insertion sort
 [2,27,16,22,18,6]
